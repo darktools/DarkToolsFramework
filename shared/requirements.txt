@@ -1,0 +1,7 @@
+amqp==1.4.9
+nameko==2.6.0
+flasgger==0.6.3
+Flask==0.12.2
+pyfiglet==0.7.5
+termcolor==1.1.0
+colorama==0.3.9

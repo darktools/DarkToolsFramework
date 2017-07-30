@@ -1,0 +1,201 @@
+0.0.0.0/8 # "This" network http://tools.ietf.org/html/rfc5735
+10.0.0.0/8 # Reserved for Private-Use Networks (RFC 1918)
+100.64.0.0/10 # Carrier-grade NAT - RFC 6598
+127.0.0.0/8 # is reserved for Loopback (RFC 6890)
+169.254.0.0/16 # Link local
+172.16.0.0/12 # Private networks
+192.0.0.0/24 # IETF Protocol Assignments
+192.0.0.0/29 # DS-Lite
+192.0.0.170/32 # NAT64
+192.0.0.171/32 # DNS64
+192.0.2.0/24 # Documentation (TEST-NET-1)
+192.88.99.0/24 # 6to4 Relay Anycast
+192.168.0.0/16 # Private networks
+198.18.0.0/15 # Benchmarking
+198.51.100.0/24 # Documentation (TEST-NET-2)
+203.0.113.0/24 # Documentation (TEST-NET-3)
+240.0.0.0/4 # Reserved
+255.255.255.255/32 # Limited Broadcast
+6.0.0.0/8 # Army Information Systems Center	1994-02	1994-02-01	Headquarters, USAISC.
+7.0.0.0/8 # Entirely assigned to DoD Network Information Center (DNIC) 1997-11-24.
+11.0.0.0/8 # DoD Intel Information Systems	1993-05	1984-01-19
+21.0.0.0/8 # DDN-RVN	1991-07	1991-07-01	DoD Network Information Center (DNIC).
+22.0.0.0/8 # Defense Information Systems Agency	1993-05	1989-06-26	DoD Network Information Center (DNIC).
+26.0.0.0/8 # Defense Information Systems Agency	1995-05	1995-05-01	DoD Network Information Center (DNIC).
+28.0.0.0/8 # DSI-North	1992-07		DoD Network Information Center (DNIC).
+29.0.0.0/8 # Defense Information Systems Agency	1991-07	1991-07-01	DoD Network Information Center (DNIC).
+30.0.0.0/8 # Defense Information Systems Agency	1991-07	1991-07-01	DoD Network Information Center (DNIC).
+33.0.0.0/8 # DLA Systems Automation Center	1991-01	1991-01-01	DoD Network Information Center (DNIC).
+55.0.0.0/8 # DoD Network Information Center	1995-04	1996-10-26	Headquarters, USAISC. Formerly Boeing Computer Services 1995-04.
+153.11.0.0/16 # General Dynamics, DoD Contractor
+214.0.0.0/8	# US-DOD 1998-03	1998-03-27	DoD Network Information Center (DNIC).
+215.0.0.0/8	# US-DOD 1998-03	1998-06-05	DoD Network Information Center (DNIC).
+224.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+225.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+226.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+227.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+228.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+229.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+230.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+231.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+232.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+233.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+234.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+235.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+236.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+237.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+238.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+239.0.0.0/8 # Multicast (formerly "Class D") (RFC 5771)
+4.53.201.0/24  # Di Li <di@egihosting.com>
+5.152.179.0/24 # Di Li <di@egihosting.com>
+8.12.162.0/24 # Di Li <di@egihosting.com>
+8.12.163.0/24 # Di Li <di@egihosting.com>
+8.12.164.0/24 # Di Li <di@egihosting.com>
+8.14.84.0/22 # Di Li <di@egihosting.com>
+8.14.145.0/24 # Di Li <di@egihosting.com>
+8.14.146.0/24 # Di Li <di@egihosting.com>
+8.14.147.0/24 # Di Li <di@egihosting.com>
+8.17.250.0/24 # Di Li <di@egihosting.com>
+8.17.251.0/24 # Di Li <di@egihosting.com>
+8.17.252.0/24 # Di Li <di@egihosting.com>
+23.27.0.0/16 # Di Li <di@egihosting.com>
+23.231.128.0/17 # Di Li <di@egihosting.com>
+37.72.172.0/23 # Di Li <di@egihosting.com>
+38.72.200.0/22 # Di Li <di@egihosting.com>
+50.93.192.0/24 # Di Li <di@egihosting.com>
+50.93.193.0/24 # Di Li <di@egihosting.com>
+50.93.194.0/24 # Di Li <di@egihosting.com>
+50.93.195.0/24 # Di Li <di@egihosting.com>
+50.93.196.0/24 # Di Li <di@egihosting.com>
+50.93.197.0/24 # Di Li <di@egihosting.com>
+50.115.128.0/20 # Di Li <di@egihosting.com>
+50.117.0.0/17 # Di Li <di@egihosting.com>
+50.118.128.0/17 # Di Li <di@egihosting.com>
+63.141.222.0/24 # Di Li <di@egihosting.com>
+64.62.253.0/24 # Di Li <di@egihosting.com>
+64.92.96.0/19 # Di Li <di@egihosting.com>
+64.145.79.0/24 # Di Li <di@egihosting.com>
+64.145.82.0/23 # Di Li <di@egihosting.com>
+64.158.146.0/23 # Di Li <di@egihosting.com>
+65.49.24.0/24 # Di Li <di@egihosting.com>
+65.49.93.0/24 # Di Li <di@egihosting.com>
+65.162.192.0/22 # Di Li <di@egihosting.com>
+66.79.160.0/19 # Di Li <di@egihosting.com>
+66.160.191.0/24 # Di Li <di@egihosting.com>
+68.68.96.0/20 # Di Li <di@egihosting.com>
+69.46.64.0/19 # Di Li <di@egihosting.com>
+69.176.80.0/20 # Di Li <di@egihosting.com>
+72.13.80.0/20 # Di Li <di@egihosting.com>
+72.52.76.0/24 # Di Li <di@egihosting.com>
+74.82.43.0/24 # Di Li <di@egihosting.com>
+74.82.160.0/19 # Di Li <di@egihosting.com>
+74.114.88.0/22 # Di Li <di@egihosting.com>
+74.115.0.0/24 # Di Li <di@egihosting.com>
+74.115.2.0/24 # Di Li <di@egihosting.com>
+74.115.4.0/24 # Di Li <di@egihosting.com>
+74.122.100.0/22 # Di Li <di@egihosting.com>
+75.127.0.0/24 # Di Li <di@egihosting.com>
+103.251.91.0/24 # Di Li <di@egihosting.com>
+108.171.32.0/24 # Di Li <di@egihosting.com>
+108.171.42.0/24 # Di Li <di@egihosting.com>
+108.171.52.0/24 # Di Li <di@egihosting.com>
+108.171.62.0/24 # Di Li <di@egihosting.com>
+118.193.78.0/23 # Di Li <di@egihosting.com>
+130.93.16.0/23 # Di Li <di@egihosting.com>
+136.0.0.0/16 # Di Li <di@egihosting.com>
+142.111.0.0/16 # Di Li <di@egihosting.com>
+142.252.0.0/16 # Di Li <di@egihosting.com>
+146.82.55.93 # Di Li <di@egihosting.com>
+149.54.136.0/21 # Di Li <di@egihosting.com>
+149.54.152.0/21 # Di Li <di@egihosting.com>
+166.88.0.0/16 # Di Li <di@egihosting.com>
+172.252.0.0/16 # Di Li <di@egihosting.com>
+173.245.64.0/19 # Di Li <di@egihosting.com>
+173.245.194.0/23 # Di Li <di@egihosting.com>
+173.245.220.0/22 # Di Li <di@egihosting.com>
+173.252.192.0/18 # Di Li <di@egihosting.com>
+178.18.16.0/22 # Di Li <di@egihosting.com>
+178.18.26.0/24 # Di Li <di@egihosting.com>
+178.18.27.0/24 # Di Li <di@egihosting.com>
+178.18.28.0/24 # Di Li <di@egihosting.com>
+178.18.29.0/24 # Di Li <di@egihosting.com>
+183.182.22.0/24 # Di Li <di@egihosting.com>
+192.92.114.0/24 # Di Li <di@egihosting.com>
+192.155.160.0/19 # Di Li <di@egihosting.com>
+192.177.0.0/16 # Di Li <di@egihosting.com>
+192.186.0.0/18 # Di Li <di@egihosting.com>
+192.249.64.0/20 # Di Li <di@egihosting.com>
+192.250.240.0/20 # Di Li <di@egihosting.com>
+194.110.214.0/24 # Di Li <di@egihosting.com>
+198.12.120.0/24 # Di Li <di@egihosting.com>
+198.12.121.0/24 # Di Li <di@egihosting.com>
+198.12.122.0/24 # Di Li <di@egihosting.com>
+198.144.240.0/20 # Di Li <di@egihosting.com>
+199.33.120.0/24 # Di Li <di@egihosting.com>
+199.33.124.0/22 # Di Li <di@egihosting.com>
+199.48.147.0/24 # Di Li <di@egihosting.com>
+199.68.196.0/22 # Di Li <di@egihosting.com>
+199.127.240.0/21 # Di Li <di@egihosting.com>
+199.187.168.0/22 # Di Li <di@egihosting.com>
+199.188.238.0/23 # Di Li <di@egihosting.com>
+199.255.208.0/24 # Di Li <di@egihosting.com>
+203.12.6.0/24 # Di Li <di@egihosting.com>
+204.13.64.0/21 # Di Li <di@egihosting.com>
+204.16.192.0/21 # Di Li <di@egihosting.com>
+204.19.238.0/24 # Di Li <di@egihosting.com>
+204.74.208.0/20 # Di Li <di@egihosting.com>
+205.159.189.0/24 # Di Li <di@egihosting.com>
+205.164.0.0/18 # Di Li <di@egihosting.com>
+205.209.128.0/18 # Di Li <di@egihosting.com>
+206.108.52.0/23 # Di Li <di@egihosting.com>
+206.165.4.0/24 # Di Li <di@egihosting.com>
+208.77.40.0/21 # Di Li <di@egihosting.com>
+208.80.4.0/22 # Di Li <di@egihosting.com>
+208.123.223.0/24 # Di Li <di@egihosting.com>
+209.51.185.0/24 # Di Li <di@egihosting.com>
+209.54.48.0/20 # Di Li <di@egihosting.com>
+209.107.192.0/23 # Di Li <di@egihosting.com>
+209.107.210.0/24 # Di Li <di@egihosting.com>
+209.107.212.0/24 # Di Li <di@egihosting.com>
+211.156.110.0/23 # Di Li <di@egihosting.com>
+216.83.33.0/24 # Di Li <di@egihosting.com>
+216.83.34.0/24 # Di Li <di@egihosting.com>
+216.83.35.0/24 # Di Li <di@egihosting.com>
+216.83.36.0/24 # Di Li <di@egihosting.com>
+216.83.37.0/24 # Di Li <di@egihosting.com>
+216.83.38.0/24 # Di Li <di@egihosting.com>
+216.83.39.0/24 # Di Li <di@egihosting.com>
+216.83.40.0/24 # Di Li <di@egihosting.com>
+216.83.41.0/24 # Di Li <di@egihosting.com>
+216.83.42.0/24 # Di Li <di@egihosting.com>
+216.83.43.0/24 # Di Li <di@egihosting.com>
+216.83.44.0/24 # Di Li <di@egihosting.com>
+216.83.45.0/24 # Di Li <di@egihosting.com>
+216.83.46.0/24 # Di Li <di@egihosting.com>
+216.83.47.0/24 # Di Li <di@egihosting.com>
+216.83.48.0/24 # Di Li <di@egihosting.com>
+216.83.49.0/24 # Di Li <di@egihosting.com>
+216.83.51.0/24 # Di Li <di@egihosting.com>
+216.83.52.0/24 # Di Li <di@egihosting.com>
+216.83.53.0/24 # Di Li <di@egihosting.com>
+216.83.54.0/24 # Di Li <di@egihosting.com>
+216.83.55.0/24 # Di Li <di@egihosting.com>
+216.83.56.0/24 # Di Li <di@egihosting.com>
+216.83.57.0/24 # Di Li <di@egihosting.com>
+216.83.58.0/24 # Di Li <di@egihosting.com>
+216.83.59.0/24 # Di Li <di@egihosting.com>
+216.83.61.0/24 # Di Li <di@egihosting.com>
+216.83.62.0/24 # Di Li <di@egihosting.com>
+216.83.63.0/24 # Di Li <di@egihosting.com>
+216.151.183.0/24 # Di Li <di@egihosting.com>
+216.151.190.0/23 # Di Li <di@egihosting.com>
+216.172.128.0/19 # Di Li <di@egihosting.com>
+216.185.36.0/24 # Di Li <di@egihosting.com>
+216.218.233.0/24 # Di Li <di@egihosting.com>
+216.224.112.0/20 # Di Li <di@egihosting.com>
+194.77.40.242/32 # Konstantin Agouros <elwood@agouros.de>
+194.77.40.246/32 # Konstantin Agouros <elwood@agouros.de>
+165.160.0.0/16 # Corporation Service Company "Derksen, Bill" <bderksen@cscinfo.com>
+129.123.0.0/16 # Utah State University
+144.39.0.0/16 # Utah State University
+204.113.91.0/24 # Utah State University

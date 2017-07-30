@@ -1,0 +1,5 @@
+HEC_URL: 'https://1.1.1.1:8088/services/collector'
+HEC_KEY: 'TOKEN-TOKEN-TOKEN-TOKEN-TOKEN'
+AMQP_PROTO: 'amqp://'
+AMQP_SERVER: '1.1.1.1'
+AMQP_PORT: '5672'

@@ -1,0 +1,1 @@
+nameko run --config /app/config.yaml target_dispatcher
